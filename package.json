@@ -1,0 +1,33 @@
+{
+  "name": "mix-version-replace",
+  "description": "webpack plugin updates laravel-mix version ids on files.",
+  "keywords": [
+    "webpack",
+    "laravel",
+    "laravel-mix",
+    "spa",
+    "vue"
+  ],
+  "author": "estagent <estagent@gmail.com>",
+  "homepage": "https://github.com/estagent/mix-version-replace",
+  "version": "1.0.1",
+  "devDependencies": {
+    "fs": "^0.0.2",
+    "glob": "^7.1.6",
+    "laravel-mix": "~5.0.9",
+    "path": "^0.12.7",
+    "webpack": "^5.0.0"
+  },
+  "main": "src/MixVersionReplace.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estagent/mix-version-replace.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estagent/mix-version-replace/issues"
+  }
+}
