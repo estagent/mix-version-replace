@@ -22,7 +22,7 @@ $ npm install  --save-dev mix-version-replace
 
 #in webpack.mix.js
 
-const MixVersionReplace = require('@iestagent/mix-version-replace');
+const MixVersionReplace = require('mix-version-replace');
 
 mix.webpackConfig({
     ...
