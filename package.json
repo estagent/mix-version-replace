@@ -10,7 +10,7 @@
   ],
   "author": "estagent <estagent@gmail.com>",
   "homepage": "https://github.com/estagent/mix-version-replace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "devDependencies": {
     "fs": "^0.0.2",
     "glob": "^7.1.6",
